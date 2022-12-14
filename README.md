@@ -19,7 +19,7 @@ You can check what depot you currently possess by taking a look at the file in `
 The depot you have installed should be under ``"InstalledDepots``.
 
 - Download the repository and extract it to a new folder.
-- Unzip the ``PC_PATCHES`` zip file to a new folder with the same name.
+- Unzip the ``PC_PATCHES`` zip file to a new folder in the repo folder with the same name.
 - Go to your game folder, grab all of it's contents (``Monument Valley.exe``, ``Monument Valley_Data`` folder, etc.) and put them in 
   a new folder called ``PC`` (case-sensitive) in the repository folder.
 - Run the ``applyPatchPC.bat`` file and let it sit until it shows "Done!" on the command line.
@@ -29,7 +29,7 @@ The depot you have installed should be under ``"InstalledDepots``.
 If you have the version *2.5.16* of the game for Android, then continue on with this section.
 
 - Download the repository and extract it to a new folder.
-- Unzip the ``PHONE_PATCHES`` zip file to a new folder with the same name.
+- Unzip the ``PHONE_PATCHES`` zip file to a new folder in the repo folder with the same name.
 - Create a new folder called "ANDROID".
 - Dump the .APK file from your game and copy all of it's contents to the new folder you created.
 - Dump the .OBB file as well and copy all of the contents from this path of the file (``assets/bin/Data/``) to ``ANDROID/assets/bin/Data/``.
