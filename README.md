@@ -1,12 +1,14 @@
 <h1 align="center">
-<img align="center" src="https://user-images.githubusercontent.com/64536760/206871090-fab3160b-d4de-485d-bbd8-e2529b3b2037.png" width="50%"><br>
+<img align="center" src="https://user-images.githubusercontent.com/64536760/207714256-d4b3d425-7f09-406f-a9cc-56629221a504.png" width="50%"><br>
 </h1>
 
 # What?
-## As taken from the Steam store page...
-Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. The devil detests having his puzzles solved and poor programming exposed; you will need to think outside the box to proceed and you will be insulted when you do.
+## As taken from the Play Store...
+In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world.
 
-This repository contains a stripped VPK file for the game and a series of patches, that when combined will produce a fully playable version of Pony Island on the PS Vita. Please note that you will need to obtain the game files for yourself to make this work.
+Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People.
+
+This repository contains a stripped VPK file for the game and a series of patches, that when combined will produce a fully playable version of Monument Valley on the PS Vita. Please note that you will need to obtain the game files for yourself to make this work.
 
 # How do I set this up?
 ## Steam
