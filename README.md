@@ -61,4 +61,4 @@ The game basically only requires you to use the touchscreen. Other buttons are n
 ## Credits
 - [BonQ](https://www.reddit.com/user/Dexxtrip) for testing the game out
 - [PatnosD](https://twitter.com/patnos_d) for helping me decompile the shaders
-- and [ustwo games](https://www.ustwogames.co.uk) of course for making Pony Island!
+- and [ustwo games](https://www.ustwogames.co.uk) of course for making Monument Valley!
