@@ -43,7 +43,7 @@ Congrats, you now have the patched files. But we're not done just yet.
 - Make a new folder on your Vita's SD Card (can be named whatever you want)
 - Open up the .VPK file from the Releases page of the repository and take it's contents to the new folder you just created.
 - Do the same thing but with the ``patchedFiles``' contents
-- Select the folder on Vitashell and press ![trian]
+- Select the folder on Vitashell and press Triangle
 - Go all the way down to ``More -> Install folder``
 - Confirm your selection.
 
