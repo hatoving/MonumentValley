@@ -54,6 +54,7 @@ Congrats, you now have the patched files. But we're not done just yet.
 - Install the VPK file
 
 At last, be sure to create a folder called ``MV`` in ``ux0:data/``. This folder is essential to create, otherwise if you don't, the game will freeze on certain moments.
+This port also includes the DLC "Forgotten Shores". If you want to enable it, create a file called "dlc" in the ``MV`` folder.
 
 # Controls
 The game basically only requires you to use the touchscreen. Other buttons are not required.
