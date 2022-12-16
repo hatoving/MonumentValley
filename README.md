@@ -26,7 +26,7 @@ The depot you have installed should be under ``"InstalledDepots``.
 - There now should be a folder called ``patchedFiles`` with all of the patched content inside.
 
 ## Android
-If you have the version *2.5.16* (or the latest version) of the game for Android, then continue on with this section.
+If you have the version ``2.5.16`` (or the latest version, ``3.3.104``) of the game for Android, then continue on with this section.
 
 - Download the repository and extract it to a new folder.
 - Download (from the Releases) and unzip the ``PHONE_PATCHES`` zip file to a new folder in the repo folder with the same name as the ZIP file.
