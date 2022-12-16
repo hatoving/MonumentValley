@@ -25,15 +25,15 @@ The depot you have installed should be under ``"InstalledDepots``.
 - Run the ``applyPatchPC.bat`` file and let it sit until it shows "Done!" on the command line.
 - There now should be a folder called ``patchedFiles`` with all of the patched content inside.
 
-## Android (for version 2.5.16)
-If you have the version *2.5.16* of the game for Android, then continue on with this section.
+## Android
+If you have the version *2.5.16* (or the latest version) of the game for Android, then continue on with this section.
 
 - Download the repository and extract it to a new folder.
 - Download (from the Releases) and unzip the ``PHONE_PATCHES`` zip file to a new folder in the repo folder with the same name as the ZIP file.
 - Create a new folder called "ANDROID".
 - Dump the .APK file from your game and copy all of it's contents to the new folder you created.
 - Dump the .OBB file as well and copy all of the contents from this path of the file (``assets/bin/Data/``) to ``ANDROID/assets/bin/Data/``.
-- Run the ``applyPatchAndroid.bat`` file and let it sit until it shows "Done!" on the command line.
+- Run the ``applyPatchAndroid.bat`` file (``applyPatchAndroidLatest`` if you're using the newest version) and let it sit until it shows "Done!" on the command line.
 - There now should be a folder called ``patchedFiles`` with all of the patched content inside.
 
 Congrats, you now have the patched files. But we're not done just yet.
