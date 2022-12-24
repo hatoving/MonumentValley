@@ -67,7 +67,7 @@ xdelta3.exe -d -s "ANDROID/assets/bin/Data/resources.resource" PHONE_PATCHES/gam
 xdelta3.exe -d -s "ANDROID/assets/bin/Data/resources.resource" PHONE_PATCHES/gamedata/globalgamemanagers.resource.xdelta patchedFiles/Media/globalgamemanagers.resource
 echo Making misc. data files...
 xdelta3.exe -d -s "ANDROID/assets/bin/Data/unity default resources" "PHONE_PATCHES/gamedata/resources/unity default resources.xdelta" "patchedFiles/Media/Resources/unity default resources"
-xdelta3.exe -d -s "ANDROID/assets/bin/Data/Resources/unity default resources" PHONE_PATCHES/gamedata/resources/unity_builtin_extra.xdelta patchedFiles/Media/Resources/unity_builtin_extra
+xdelta3.exe -d -s "ANDROID/assets/bin/Data/unity default resources" PHONE_PATCHES/gamedata/resources/unity_builtin_extra.xdelta patchedFiles/Media/Resources/unity_builtin_extra
 echo Making code files...
 xdelta3.exe -d -s "ANDROID/assets/bin/Data/Managed/Metadata/global-metadata.dat" PHONE_PATCHES/gamedata/code/Assembly-CSharp.dll.xdelta patchedFiles/Media/Managed/Assembly-CSharp.dll
 echo Done! 
